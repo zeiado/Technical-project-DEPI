@@ -1,0 +1,354 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DEPI\\Graduation project\\FitnessAPPMVCSol\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97260DE1-D048-4DB3-A121-8415B5F63FC5}|Fitness App.DAL\\Fitness App.DAL.csproj|d:\\depi\\graduation project\\fitnessappmvcsol\\fitness app.dal\\interfaces\\iadminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97260DE1-D048-4DB3-A121-8415B5F63FC5}|Fitness App.DAL\\Fitness App.DAL.csproj|solutionrelative:fitness app.dal\\interfaces\\iadminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97260DE1-D048-4DB3-A121-8415B5F63FC5}|Fitness App.DAL\\Fitness App.DAL.csproj|d:\\depi\\graduation project\\fitnessappmvcsol\\fitness app.dal\\repositories\\adminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97260DE1-D048-4DB3-A121-8415B5F63FC5}|Fitness App.DAL\\Fitness App.DAL.csproj|solutionrelative:fitness app.dal\\repositories\\adminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97260DE1-D048-4DB3-A121-8415B5F63FC5}|Fitness App.DAL\\Fitness App.DAL.csproj|d:\\depi\\graduation project\\fitnessappmvcsol\\fitness app.dal\\dbcontext\\fitnessappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97260DE1-D048-4DB3-A121-8415B5F63FC5}|Fitness App.DAL\\Fitness App.DAL.csproj|solutionrelative:fitness app.dal\\dbcontext\\fitnessappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97260DE1-D048-4DB3-A121-8415B5F63FC5}|Fitness App.DAL\\Fitness App.DAL.csproj|d:\\depi\\graduation project\\fitnessappmvcsol\\fitness app.dal\\configurationclasses\\subscriptionconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97260DE1-D048-4DB3-A121-8415B5F63FC5}|Fitness App.DAL\\Fitness App.DAL.csproj|solutionrelative:fitness app.dal\\configurationclasses\\subscriptionconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97260DE1-D048-4DB3-A121-8415B5F63FC5}|Fitness App.DAL\\Fitness App.DAL.csproj|d:\\depi\\graduation project\\fitnessappmvcsol\\fitness app.dal\\configurationclasses\\coachconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97260DE1-D048-4DB3-A121-8415B5F63FC5}|Fitness App.DAL\\Fitness App.DAL.csproj|solutionrelative:fitness app.dal\\configurationclasses\\coachconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97260DE1-D048-4DB3-A121-8415B5F63FC5}|Fitness App.DAL\\Fitness App.DAL.csproj|d:\\depi\\graduation project\\fitnessappmvcsol\\fitness app.dal\\configurationclasses\\clientconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97260DE1-D048-4DB3-A121-8415B5F63FC5}|Fitness App.DAL\\Fitness App.DAL.csproj|solutionrelative:fitness app.dal\\configurationclasses\\clientconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97260DE1-D048-4DB3-A121-8415B5F63FC5}|Fitness App.DAL\\Fitness App.DAL.csproj|d:\\depi\\graduation project\\fitnessappmvcsol\\fitness app.dal\\configurationclasses\\messageconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97260DE1-D048-4DB3-A121-8415B5F63FC5}|Fitness App.DAL\\Fitness App.DAL.csproj|solutionrelative:fitness app.dal\\configurationclasses\\messageconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97260DE1-D048-4DB3-A121-8415B5F63FC5}|Fitness App.DAL\\Fitness App.DAL.csproj|d:\\depi\\graduation project\\fitnessappmvcsol\\fitness app.dal\\configurationclasses\\progresslogconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97260DE1-D048-4DB3-A121-8415B5F63FC5}|Fitness App.DAL\\Fitness App.DAL.csproj|solutionrelative:fitness app.dal\\configurationclasses\\progresslogconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75853134-973A-4A91-ABBD-6D74953BF028}|FitnessAPPMVC\\FitnessAPPMVC.csproj|d:\\depi\\graduation project\\fitnessappmvcsol\\fitnessappmvc\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75853134-973A-4A91-ABBD-6D74953BF028}|FitnessAPPMVC\\FitnessAPPMVC.csproj|solutionrelative:fitnessappmvc\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75853134-973A-4A91-ABBD-6D74953BF028}|FitnessAPPMVC\\FitnessAPPMVC.csproj|d:\\depi\\graduation project\\fitnessappmvcsol\\fitnessappmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75853134-973A-4A91-ABBD-6D74953BF028}|FitnessAPPMVC\\FitnessAPPMVC.csproj|solutionrelative:fitnessappmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75853134-973A-4A91-ABBD-6D74953BF028}|FitnessAPPMVC\\FitnessAPPMVC.csproj|d:\\depi\\graduation project\\fitnessappmvcsol\\fitnessappmvc\\views\\admin\\dietplanmanagement.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75853134-973A-4A91-ABBD-6D74953BF028}|FitnessAPPMVC\\FitnessAPPMVC.csproj|solutionrelative:fitnessappmvc\\views\\admin\\dietplanmanagement.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E261E123-1230-4421-8DF4-D34B1E968012}|Fitness App.BL\\Fitness App.BL.csproj|d:\\depi\\graduation project\\fitnessappmvcsol\\fitness app.bl\\servecies\\dietplanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E261E123-1230-4421-8DF4-D34B1E968012}|Fitness App.BL\\Fitness App.BL.csproj|solutionrelative:fitness app.bl\\servecies\\dietplanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75853134-973A-4A91-ABBD-6D74953BF028}|FitnessAPPMVC\\FitnessAPPMVC.csproj|d:\\depi\\graduation project\\fitnessappmvcsol\\fitnessappmvc\\views\\admin\\adddietplan.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75853134-973A-4A91-ABBD-6D74953BF028}|FitnessAPPMVC\\FitnessAPPMVC.csproj|solutionrelative:fitnessappmvc\\views\\admin\\adddietplan.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E261E123-1230-4421-8DF4-D34B1E968012}|Fitness App.BL\\Fitness App.BL.csproj|d:\\depi\\graduation project\\fitnessappmvcsol\\fitness app.bl\\viewmodels\\dietplanviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E261E123-1230-4421-8DF4-D34B1E968012}|Fitness App.BL\\Fitness App.BL.csproj|solutionrelative:fitness app.bl\\viewmodels\\dietplanviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97260DE1-D048-4DB3-A121-8415B5F63FC5}|Fitness App.DAL\\Fitness App.DAL.csproj|d:\\depi\\graduation project\\fitnessappmvcsol\\fitness app.dal\\fitness app.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{97260DE1-D048-4DB3-A121-8415B5F63FC5}|Fitness App.DAL\\Fitness App.DAL.csproj|solutionrelative:fitness app.dal\\fitness app.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E261E123-1230-4421-8DF4-D34B1E968012}|Fitness App.BL\\Fitness App.BL.csproj|d:\\depi\\graduation project\\fitnessappmvcsol\\fitness app.bl\\fitness app.bl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E261E123-1230-4421-8DF4-D34B1E968012}|Fitness App.BL\\Fitness App.BL.csproj|solutionrelative:fitness app.bl\\fitness app.bl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97260DE1-D048-4DB3-A121-8415B5F63FC5}|Fitness App.DAL\\Fitness App.DAL.csproj|d:\\depi\\graduation project\\fitnessappmvcsol\\fitness app.dal\\models\\dietplans.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97260DE1-D048-4DB3-A121-8415B5F63FC5}|Fitness App.DAL\\Fitness App.DAL.csproj|solutionrelative:fitness app.dal\\models\\dietplans.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97260DE1-D048-4DB3-A121-8415B5F63FC5}|Fitness App.DAL\\Fitness App.DAL.csproj|d:\\depi\\graduation project\\fitnessappmvcsol\\fitness app.dal\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97260DE1-D048-4DB3-A121-8415B5F63FC5}|Fitness App.DAL\\Fitness App.DAL.csproj|solutionrelative:fitness app.dal\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75853134-973A-4A91-ABBD-6D74953BF028}|FitnessAPPMVC\\FitnessAPPMVC.csproj|d:\\depi\\graduation project\\fitnessappmvcsol\\fitnessappmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75853134-973A-4A91-ABBD-6D74953BF028}|FitnessAPPMVC\\FitnessAPPMVC.csproj|solutionrelative:fitnessappmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97260DE1-D048-4DB3-A121-8415B5F63FC5}|Fitness App.DAL\\Fitness App.DAL.csproj|d:\\depi\\graduation project\\fitnessappmvcsol\\fitness app.dal\\migrations\\20250427201044_removeadminidfromdietplan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97260DE1-D048-4DB3-A121-8415B5F63FC5}|Fitness App.DAL\\Fitness App.DAL.csproj|solutionrelative:fitness app.dal\\migrations\\20250427201044_removeadminidfromdietplan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 17,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SubscriptionConfigurations.cs",
+              "DocumentMoniker": "D:\\DEPI\\Graduation project\\FitnessAPPMVCSol\\Fitness App.DAL\\ConfigurationClasses\\SubscriptionConfigurations.cs",
+              "RelativeDocumentMoniker": "Fitness App.DAL\\ConfigurationClasses\\SubscriptionConfigurations.cs",
+              "ToolTip": "D:\\DEPI\\Graduation project\\FitnessAPPMVCSol\\Fitness App.DAL\\ConfigurationClasses\\SubscriptionConfigurations.cs",
+              "RelativeToolTip": "Fitness App.DAL\\ConfigurationClasses\\SubscriptionConfigurations.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T22:13:05.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CoachConfigurations.cs",
+              "DocumentMoniker": "D:\\DEPI\\Graduation project\\FitnessAPPMVCSol\\Fitness App.DAL\\ConfigurationClasses\\CoachConfigurations.cs",
+              "RelativeDocumentMoniker": "Fitness App.DAL\\ConfigurationClasses\\CoachConfigurations.cs",
+              "ToolTip": "D:\\DEPI\\Graduation project\\FitnessAPPMVCSol\\Fitness App.DAL\\ConfigurationClasses\\CoachConfigurations.cs",
+              "RelativeToolTip": "Fitness App.DAL\\ConfigurationClasses\\CoachConfigurations.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T22:11:34.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MessageConfigurations.cs",
+              "DocumentMoniker": "D:\\DEPI\\Graduation project\\FitnessAPPMVCSol\\Fitness App.DAL\\ConfigurationClasses\\MessageConfigurations.cs",
+              "RelativeDocumentMoniker": "Fitness App.DAL\\ConfigurationClasses\\MessageConfigurations.cs",
+              "ToolTip": "D:\\DEPI\\Graduation project\\FitnessAPPMVCSol\\Fitness App.DAL\\ConfigurationClasses\\MessageConfigurations.cs",
+              "RelativeToolTip": "Fitness App.DAL\\ConfigurationClasses\\MessageConfigurations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T22:09:57.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClientConfigurations.cs",
+              "DocumentMoniker": "D:\\DEPI\\Graduation project\\FitnessAPPMVCSol\\Fitness App.DAL\\ConfigurationClasses\\ClientConfigurations.cs",
+              "RelativeDocumentMoniker": "Fitness App.DAL\\ConfigurationClasses\\ClientConfigurations.cs",
+              "ToolTip": "D:\\DEPI\\Graduation project\\FitnessAPPMVCSol\\Fitness App.DAL\\ConfigurationClasses\\ClientConfigurations.cs",
+              "RelativeToolTip": "Fitness App.DAL\\ConfigurationClasses\\ClientConfigurations.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAC4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T22:06:21.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProgressLogConfigurations.cs",
+              "DocumentMoniker": "D:\\DEPI\\Graduation project\\FitnessAPPMVCSol\\Fitness App.DAL\\ConfigurationClasses\\ProgressLogConfigurations.cs",
+              "RelativeDocumentMoniker": "Fitness App.DAL\\ConfigurationClasses\\ProgressLogConfigurations.cs",
+              "ToolTip": "D:\\DEPI\\Graduation project\\FitnessAPPMVCSol\\Fitness App.DAL\\ConfigurationClasses\\ProgressLogConfigurations.cs",
+              "RelativeToolTip": "Fitness App.DAL\\ConfigurationClasses\\ProgressLogConfigurations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T22:01:30.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FitnessAppDbContext.cs",
+              "DocumentMoniker": "D:\\DEPI\\Graduation project\\FitnessAPPMVCSol\\Fitness App.DAL\\DbContext\\FitnessAppDbContext.cs",
+              "RelativeDocumentMoniker": "Fitness App.DAL\\DbContext\\FitnessAppDbContext.cs",
+              "ToolTip": "D:\\DEPI\\Graduation project\\FitnessAPPMVCSol\\Fitness App.DAL\\DbContext\\FitnessAppDbContext.cs",
+              "RelativeToolTip": "Fitness App.DAL\\DbContext\\FitnessAppDbContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAH8AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T22:00:10.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\DEPI\\Graduation project\\FitnessAPPMVCSol\\FitnessAPPMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "FitnessAPPMVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\DEPI\\Graduation project\\FitnessAPPMVCSol\\FitnessAPPMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "FitnessAPPMVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADwAAACEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-27T21:22:22.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Fitness App.DAL.csproj",
+              "DocumentMoniker": "D:\\DEPI\\Graduation project\\FitnessAPPMVCSol\\Fitness App.DAL\\Fitness App.DAL.csproj",
+              "RelativeDocumentMoniker": "Fitness App.DAL\\Fitness App.DAL.csproj",
+              "ToolTip": "D:\\DEPI\\Graduation project\\FitnessAPPMVCSol\\Fitness App.DAL\\Fitness App.DAL.csproj",
+              "RelativeToolTip": "Fitness App.DAL\\Fitness App.DAL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-27T20:52:47.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Fitness App.BL.csproj",
+              "DocumentMoniker": "D:\\DEPI\\Graduation project\\FitnessAPPMVCSol\\Fitness App.BL\\Fitness App.BL.csproj",
+              "RelativeDocumentMoniker": "Fitness App.BL\\Fitness App.BL.csproj",
+              "ToolTip": "D:\\DEPI\\Graduation project\\FitnessAPPMVCSol\\Fitness App.BL\\Fitness App.BL.csproj",
+              "RelativeToolTip": "Fitness App.BL\\Fitness App.BL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-27T20:52:39.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20250427201044_RemoveAdminIdFromDietPlan.cs",
+              "DocumentMoniker": "D:\\DEPI\\Graduation project\\FitnessAPPMVCSol\\Fitness App.DAL\\Migrations\\20250427201044_RemoveAdminIdFromDietPlan.cs",
+              "RelativeDocumentMoniker": "Fitness App.DAL\\Migrations\\20250427201044_RemoveAdminIdFromDietPlan.cs",
+              "ToolTip": "D:\\DEPI\\Graduation project\\FitnessAPPMVCSol\\Fitness App.DAL\\Migrations\\20250427201044_RemoveAdminIdFromDietPlan.cs",
+              "RelativeToolTip": "Fitness App.DAL\\Migrations\\20250427201044_RemoveAdminIdFromDietPlan.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T20:10:45.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DietPlans.cs",
+              "DocumentMoniker": "D:\\DEPI\\Graduation project\\FitnessAPPMVCSol\\Fitness App.DAL\\Models\\DietPlans.cs",
+              "RelativeDocumentMoniker": "Fitness App.DAL\\Models\\DietPlans.cs",
+              "ToolTip": "D:\\DEPI\\Graduation project\\FitnessAPPMVCSol\\Fitness App.DAL\\Models\\DietPlans.cs",
+              "RelativeToolTip": "Fitness App.DAL\\Models\\DietPlans.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T20:08:28.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "D:\\DEPI\\Graduation project\\FitnessAPPMVCSol\\Fitness App.DAL\\Models\\Admin.cs",
+              "RelativeDocumentMoniker": "Fitness App.DAL\\Models\\Admin.cs",
+              "ToolTip": "D:\\DEPI\\Graduation project\\FitnessAPPMVCSol\\Fitness App.DAL\\Models\\Admin.cs",
+              "RelativeToolTip": "Fitness App.DAL\\Models\\Admin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T20:08:17.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AddDietPlan.cshtml",
+              "DocumentMoniker": "D:\\DEPI\\Graduation project\\FitnessAPPMVCSol\\FitnessAPPMVC\\Views\\Admin\\AddDietPlan.cshtml",
+              "RelativeDocumentMoniker": "FitnessAPPMVC\\Views\\Admin\\AddDietPlan.cshtml",
+              "ToolTip": "D:\\DEPI\\Graduation project\\FitnessAPPMVCSol\\FitnessAPPMVC\\Views\\Admin\\AddDietPlan.cshtml",
+              "RelativeToolTip": "FitnessAPPMVC\\Views\\Admin\\AddDietPlan.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAADgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-27T19:17:33.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DietPlanManagement.cshtml",
+              "DocumentMoniker": "D:\\DEPI\\Graduation project\\FitnessAPPMVCSol\\FitnessAPPMVC\\Views\\Admin\\DietPlanManagement.cshtml",
+              "RelativeDocumentMoniker": "FitnessAPPMVC\\Views\\Admin\\DietPlanManagement.cshtml",
+              "ToolTip": "D:\\DEPI\\Graduation project\\FitnessAPPMVCSol\\FitnessAPPMVC\\Views\\Admin\\DietPlanManagement.cshtml",
+              "RelativeToolTip": "FitnessAPPMVC\\Views\\Admin\\DietPlanManagement.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-27T19:16:09.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DEPI\\Graduation project\\FitnessAPPMVCSol\\FitnessAPPMVC\\Program.cs",
+              "RelativeDocumentMoniker": "FitnessAPPMVC\\Program.cs",
+              "ToolTip": "D:\\DEPI\\Graduation project\\FitnessAPPMVCSol\\FitnessAPPMVC\\Program.cs",
+              "RelativeToolTip": "FitnessAPPMVC\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T19:14:56.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DietPlanService.cs",
+              "DocumentMoniker": "D:\\DEPI\\Graduation project\\FitnessAPPMVCSol\\Fitness App.BL\\Servecies\\DietPlanService.cs",
+              "RelativeDocumentMoniker": "Fitness App.BL\\Servecies\\DietPlanService.cs",
+              "ToolTip": "D:\\DEPI\\Graduation project\\FitnessAPPMVCSol\\Fitness App.BL\\Servecies\\DietPlanService.cs",
+              "RelativeToolTip": "Fitness App.BL\\Servecies\\DietPlanService.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAEMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T18:44:51.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DietPlanViewModel.cs",
+              "DocumentMoniker": "D:\\DEPI\\Graduation project\\FitnessAPPMVCSol\\Fitness App.BL\\ViewModels\\DietPlanViewModel.cs",
+              "RelativeDocumentMoniker": "Fitness App.BL\\ViewModels\\DietPlanViewModel.cs",
+              "ToolTip": "D:\\DEPI\\Graduation project\\FitnessAPPMVCSol\\Fitness App.BL\\ViewModels\\DietPlanViewModel.cs",
+              "RelativeToolTip": "Fitness App.BL\\ViewModels\\DietPlanViewModel.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T18:43:25.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IAdminRepository.cs",
+              "DocumentMoniker": "D:\\DEPI\\Graduation project\\FitnessAPPMVCSol\\Fitness App.DAL\\Interfaces\\IAdminRepository.cs",
+              "RelativeDocumentMoniker": "Fitness App.DAL\\Interfaces\\IAdminRepository.cs",
+              "ToolTip": "D:\\DEPI\\Graduation project\\FitnessAPPMVCSol\\Fitness App.DAL\\Interfaces\\IAdminRepository.cs",
+              "RelativeToolTip": "Fitness App.DAL\\Interfaces\\IAdminRepository.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAYwC8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T18:32:15.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminRepository.cs",
+              "DocumentMoniker": "D:\\DEPI\\Graduation project\\FitnessAPPMVCSol\\Fitness App.DAL\\Repositories\\AdminRepository.cs",
+              "RelativeDocumentMoniker": "Fitness App.DAL\\Repositories\\AdminRepository.cs",
+              "ToolTip": "D:\\DEPI\\Graduation project\\FitnessAPPMVCSol\\Fitness App.DAL\\Repositories\\AdminRepository.cs",
+              "RelativeToolTip": "Fitness App.DAL\\Repositories\\AdminRepository.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAADQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T18:26:19.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "D:\\DEPI\\Graduation project\\FitnessAPPMVCSol\\FitnessAPPMVC\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "FitnessAPPMVC\\Controllers\\AdminController.cs",
+              "ToolTip": "D:\\DEPI\\Graduation project\\FitnessAPPMVCSol\\FitnessAPPMVC\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "FitnessAPPMVC\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAqwEIAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T16:12:50.521Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

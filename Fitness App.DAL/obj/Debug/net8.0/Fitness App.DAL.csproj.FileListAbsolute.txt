@@ -1,0 +1,31 @@
+D:\DEPI\tech\C#_MiniProject\C#_Project\Fitness App Sol\Fitness App.DAL\bin\Debug\net8.0\Fitness App.DAL.deps.json
+D:\DEPI\tech\C#_MiniProject\C#_Project\Fitness App Sol\Fitness App.DAL\bin\Debug\net8.0\Fitness App.DAL.runtimeconfig.json
+D:\DEPI\tech\C#_MiniProject\C#_Project\Fitness App Sol\Fitness App.DAL\bin\Debug\net8.0\Fitness App.DAL.dll
+D:\DEPI\tech\C#_MiniProject\C#_Project\Fitness App Sol\Fitness App.DAL\bin\Debug\net8.0\Fitness App.DAL.pdb
+D:\DEPI\tech\C#_MiniProject\C#_Project\Fitness App Sol\Fitness App.DAL\bin\Debug\net8.0\Fitness App.BL.dll
+D:\DEPI\tech\C#_MiniProject\C#_Project\Fitness App Sol\Fitness App.DAL\bin\Debug\net8.0\Fitness App.BL.pdb
+D:\DEPI\tech\C#_MiniProject\C#_Project\Fitness App Sol\Fitness App.DAL\obj\Debug\net8.0\Fitness App.DAL.csproj.AssemblyReference.cache
+D:\DEPI\tech\C#_MiniProject\C#_Project\Fitness App Sol\Fitness App.DAL\obj\Debug\net8.0\Fitness App.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEPI\tech\C#_MiniProject\C#_Project\Fitness App Sol\Fitness App.DAL\obj\Debug\net8.0\Fitness App.DAL.AssemblyInfoInputs.cache
+D:\DEPI\tech\C#_MiniProject\C#_Project\Fitness App Sol\Fitness App.DAL\obj\Debug\net8.0\Fitness App.DAL.AssemblyInfo.cs
+D:\DEPI\tech\C#_MiniProject\C#_Project\Fitness App Sol\Fitness App.DAL\obj\Debug\net8.0\Fitness App.DAL.csproj.CoreCompileInputs.cache
+D:\DEPI\tech\C#_MiniProject\C#_Project\Fitness App Sol\Fitness App.DAL\obj\Debug\net8.0\Fitness .06A9C35D.Up2Date
+D:\DEPI\tech\C#_MiniProject\C#_Project\Fitness App Sol\Fitness App.DAL\obj\Debug\net8.0\Fitness App.DAL.dll
+D:\DEPI\tech\C#_MiniProject\C#_Project\Fitness App Sol\Fitness App.DAL\obj\Debug\net8.0\refint\Fitness App.DAL.dll
+D:\DEPI\tech\C#_MiniProject\C#_Project\Fitness App Sol\Fitness App.DAL\obj\Debug\net8.0\Fitness App.DAL.pdb
+D:\DEPI\tech\C#_MiniProject\C#_Project\Fitness App Sol\Fitness App.DAL\obj\Debug\net8.0\Fitness App.DAL.genruntimeconfig.cache
+D:\DEPI\tech\C#_MiniProject\C#_Project\Fitness App Sol\Fitness App.DAL\obj\Debug\net8.0\ref\Fitness App.DAL.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\Fitness App.DAL\obj\Debug\net8.0\Fitness App.DAL.csproj.AssemblyReference.cache
+D:\DEPI\Graduation project\FitnessAPPMVCSol\Fitness App.DAL\obj\Debug\net8.0\Fitness App.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEPI\Graduation project\FitnessAPPMVCSol\Fitness App.DAL\obj\Debug\net8.0\Fitness App.DAL.AssemblyInfoInputs.cache
+D:\DEPI\Graduation project\FitnessAPPMVCSol\Fitness App.DAL\obj\Debug\net8.0\Fitness App.DAL.AssemblyInfo.cs
+D:\DEPI\Graduation project\FitnessAPPMVCSol\Fitness App.DAL\obj\Debug\net8.0\Fitness App.DAL.csproj.CoreCompileInputs.cache
+D:\DEPI\Graduation project\FitnessAPPMVCSol\Fitness App.DAL\obj\Debug\net8.0\Fitness App.DAL.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\Fitness App.DAL\obj\Debug\net8.0\refint\Fitness App.DAL.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\Fitness App.DAL\obj\Debug\net8.0\Fitness App.DAL.pdb
+D:\DEPI\Graduation project\FitnessAPPMVCSol\Fitness App.DAL\bin\Debug\net8.0\Fitness App.DAL.deps.json
+D:\DEPI\Graduation project\FitnessAPPMVCSol\Fitness App.DAL\bin\Debug\net8.0\Fitness App.DAL.runtimeconfig.json
+D:\DEPI\Graduation project\FitnessAPPMVCSol\Fitness App.DAL\bin\Debug\net8.0\Fitness App.DAL.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\Fitness App.DAL\bin\Debug\net8.0\Fitness App.DAL.pdb
+D:\DEPI\Graduation project\FitnessAPPMVCSol\Fitness App.DAL\obj\Debug\net8.0\Fitness App.DAL.genruntimeconfig.cache
+D:\DEPI\Graduation project\FitnessAPPMVCSol\Fitness App.DAL\obj\Debug\net8.0\ref\Fitness App.DAL.dll

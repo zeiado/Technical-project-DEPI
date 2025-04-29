@@ -1,0 +1,27 @@
+D:\DEPI\tech\C#_MiniProject\C#_Project\Fitness App Sol\Fitness App.BL\bin\Debug\net8.0\Fitness App.BL.deps.json
+D:\DEPI\tech\C#_MiniProject\C#_Project\Fitness App Sol\Fitness App.BL\bin\Debug\net8.0\Fitness App.BL.dll
+D:\DEPI\tech\C#_MiniProject\C#_Project\Fitness App Sol\Fitness App.BL\bin\Debug\net8.0\Fitness App.BL.pdb
+D:\DEPI\tech\C#_MiniProject\C#_Project\Fitness App Sol\Fitness App.BL\obj\Debug\net8.0\Fitness App.BL.csproj.AssemblyReference.cache
+D:\DEPI\tech\C#_MiniProject\C#_Project\Fitness App Sol\Fitness App.BL\obj\Debug\net8.0\Fitness App.BL.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEPI\tech\C#_MiniProject\C#_Project\Fitness App Sol\Fitness App.BL\obj\Debug\net8.0\Fitness App.BL.AssemblyInfoInputs.cache
+D:\DEPI\tech\C#_MiniProject\C#_Project\Fitness App Sol\Fitness App.BL\obj\Debug\net8.0\Fitness App.BL.AssemblyInfo.cs
+D:\DEPI\tech\C#_MiniProject\C#_Project\Fitness App Sol\Fitness App.BL\obj\Debug\net8.0\Fitness App.BL.csproj.CoreCompileInputs.cache
+D:\DEPI\tech\C#_MiniProject\C#_Project\Fitness App Sol\Fitness App.BL\obj\Debug\net8.0\Fitness App.BL.dll
+D:\DEPI\tech\C#_MiniProject\C#_Project\Fitness App Sol\Fitness App.BL\obj\Debug\net8.0\refint\Fitness App.BL.dll
+D:\DEPI\tech\C#_MiniProject\C#_Project\Fitness App Sol\Fitness App.BL\obj\Debug\net8.0\Fitness App.BL.pdb
+D:\DEPI\tech\C#_MiniProject\C#_Project\Fitness App Sol\Fitness App.BL\obj\Debug\net8.0\ref\Fitness App.BL.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\Fitness App.BL\obj\Debug\net8.0\Fitness App.BL.csproj.AssemblyReference.cache
+D:\DEPI\Graduation project\FitnessAPPMVCSol\Fitness App.BL\obj\Debug\net8.0\Fitness App.BL.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEPI\Graduation project\FitnessAPPMVCSol\Fitness App.BL\obj\Debug\net8.0\Fitness App.BL.AssemblyInfoInputs.cache
+D:\DEPI\Graduation project\FitnessAPPMVCSol\Fitness App.BL\obj\Debug\net8.0\Fitness App.BL.AssemblyInfo.cs
+D:\DEPI\Graduation project\FitnessAPPMVCSol\Fitness App.BL\obj\Debug\net8.0\Fitness App.BL.csproj.CoreCompileInputs.cache
+D:\DEPI\Graduation project\FitnessAPPMVCSol\Fitness App.BL\obj\Debug\net8.0\Fitness App.BL.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\Fitness App.BL\obj\Debug\net8.0\refint\Fitness App.BL.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\Fitness App.BL\obj\Debug\net8.0\Fitness App.BL.pdb
+D:\DEPI\Graduation project\FitnessAPPMVCSol\Fitness App.BL\bin\Debug\net8.0\Fitness App.BL.deps.json
+D:\DEPI\Graduation project\FitnessAPPMVCSol\Fitness App.BL\bin\Debug\net8.0\Fitness App.BL.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\Fitness App.BL\bin\Debug\net8.0\Fitness App.BL.pdb
+D:\DEPI\Graduation project\FitnessAPPMVCSol\Fitness App.BL\bin\Debug\net8.0\Fitness App.DAL.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\Fitness App.BL\bin\Debug\net8.0\Fitness App.DAL.pdb
+D:\DEPI\Graduation project\FitnessAPPMVCSol\Fitness App.BL\obj\Debug\net8.0\Fitness .26E6CB48.Up2Date
+D:\DEPI\Graduation project\FitnessAPPMVCSol\Fitness App.BL\obj\Debug\net8.0\ref\Fitness App.BL.dll
